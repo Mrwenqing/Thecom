@@ -1,0 +1,9 @@
+快速删除 node_modules 包
+安装npm install rimraf -g
+使用 rimraf node_modules即可快速删除
+pnpm项目创建流程
+1.全局安装 npm install -g pnpm     
+查看Pnpm onpm -V
+2.pnpm创建vue项目  vue create dome -m npm
+3.pnpm安装axios  pnpm add axios -S
+4.pnpm安装element ui  pnpm  install element-ui  --save
